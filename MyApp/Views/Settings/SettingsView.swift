@@ -9,9 +9,8 @@ import SwiftUI
 import os
 
 enum AppLinks {
-    // TODO: Replace with the real URLs before submitting to the App Store.
-    static let privacyPolicy = URL(string: "https://example.com/my-gitignore/privacy")!
-    static let support = URL(string: "https://example.com/my-gitignore/support")!
+    static let privacyPolicy = URL(string: "https://github.com/Gregor-Gottschewski/my-gitignore/blob/main/PRIVACY.md")!
+    static let github = URL(string: "https://github.com/Gregor-Gottschewski/my-gitignore/")!
 }
 
 struct SettingsView: View {
@@ -50,7 +49,7 @@ struct SettingsView: View {
 
             Section("About") {
                 Link("Privacy Policy", destination: AppLinks.privacyPolicy)
-                Link("Support", destination: AppLinks.support)
+                Link("Project on GitHub", destination: AppLinks.github)
             }
 
             Section("Licenses") {
