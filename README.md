@@ -1,6 +1,8 @@
 # My Gitignore
 > Manage and create .gitignore files.
 
+![screenshot](/assets/appstore/screenshot_3.png)
+
 What is the first thing you should do before committing your project? Right! **Creating a .gitignore file.** Some IDEs and frameworks create one automatically when you start a new project. However, it often doesn't cover all unwanted files. In these cases people rely on [gitignore.io](https://www.toptal.com/developers/gitignore), where you create gitignore files based on keywords. We bring the same technique natively to the Mac!
 
 ## How does it work?
