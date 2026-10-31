@@ -23,4 +23,4 @@ My Gitignore collects no data. The only network requests go to `github.com` and 
 - Templates: [github/gitignore](https://github.com/github/gitignore) (CC0 1.0)
 - [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) (MIT License)
 
-This project is not affiliated with or endorsed by GitHub, Inc. See [LICENSE](LICENSE) for the license of this project.
+This project is not affiliated with or endorsed by GitHub, Inc. See [LICENSE](LICENSE.md) for the license of this project.
