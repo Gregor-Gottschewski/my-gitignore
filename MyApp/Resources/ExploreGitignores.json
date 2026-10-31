@@ -1,0 +1,11 @@
+[
+  { "name": "Swift & Xcode", "description": "Apple platform apps with Swift and Xcode", "templates": ["swift", "xcode", "macos"], "color": { "red": 0.95, "green": 0.4, "blue": 0.2 } },
+  { "name": "Node Web App", "description": "Node.js projects on macOS", "templates": ["node", "macos"], "color": { "red": 0.2, "green": 0.65, "blue": 0.35 } },
+  { "name": "Python", "description": "Python projects with virtual environments", "templates": ["python", "macos"], "color": { "red": 0.2, "green": 0.45, "blue": 0.85 } },
+  { "name": "Android", "description": "Android apps built with Gradle", "templates": ["android", "gradle", "java"], "color": { "red": 0.25, "green": 0.7, "blue": 0.45 } },
+  { "name": "Java", "description": "Java and Maven projects", "templates": ["java", "maven", "jetbrains"], "color": { "red": 0.8, "green": 0.3, "blue": 0.3 } },
+  { "name": "Unity", "description": "Unity game projects", "templates": ["unity", "visualstudio"], "color": { "red": 0.35, "green": 0.35, "blue": 0.4 } },
+  { "name": "Rust", "description": "Rust crates and binaries", "templates": ["rust", "macos"], "color": { "red": 0.7, "green": 0.4, "blue": 0.25 } },
+  { "name": "Go", "description": "Go modules and tools", "templates": ["go", "macos"], "color": { "red": 0.2, "green": 0.7, "blue": 0.8 } },
+  { "name": "Unreal Engine", "description": "Unreal Engine game projects", "templates": ["unrealengine", "visualstudio"], "color": { "red": 0.3, "green": 0.3, "blue": 0.6 } }
+]
